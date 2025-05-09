@@ -1,4 +1,4 @@
-# New Video-App :
+# New Video-App
 
 A Flutter project.
 
